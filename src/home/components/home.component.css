@@ -1,13 +1,16 @@
-:host {
-  display: block;
-  padding: 0 16px;
+.jumbotron{
+	margin-top: 10px;
+}
+.jumbotron h1, .jumbotron p{
+	text-align: center;
+}
+.media:first-child{
+	margin-top: 15px;
+}
+.carousel{
+	margin-top: 50px;
 }
 
-input {
-  width: 250px;
-}
-
-ul {
-  list-style-type: none;
-  padding: 0 0 0 8px;
+#homeContainer{
+	margin-bottom: 100px;
 }
